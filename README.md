@@ -1,2 +1,2 @@
-# ada-library
+# library-ada
 Proyecto final ada school
